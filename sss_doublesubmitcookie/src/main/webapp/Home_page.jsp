@@ -6,13 +6,11 @@
 <meta charset="ISO-8859-1">
 <title>Most trusted bank in the world!</title>
 </head>
-<body>
-<h1>Fake Bank</h1>
-<br/>
+<body bgcolor=#cecee8>
 
-<p>welcome to my home</p>
-<br/>
-<a href="./Legitimate_page.html" target="Starfall">Open legit page</a>&nbsp;
-<a href="./Intruder.html" target="Starfall">Fake page</a>
+    <p>welcome to my home</p>
+    <br/>
+    <a href="./Legitimate_page.html" target="Starfall">Open legit page</a>&nbsp;
+    <a href="./Intruder.html" target="Starfall">Fake page</a>
 </body>
 </html>
