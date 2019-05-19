@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+ * Servlet implementation class Home servlet
  * @author Keshani.A. Bogahawatte
  * IT17139786
  */
