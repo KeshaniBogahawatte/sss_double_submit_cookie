@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Most trusted bank in the world</title>
 </head>
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
