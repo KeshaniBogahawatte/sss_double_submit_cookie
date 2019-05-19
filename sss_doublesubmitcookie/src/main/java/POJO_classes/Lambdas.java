@@ -1,12 +1,15 @@
 package POJO_classes;
 
 import java.util.function.Function;
-
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpSession;
 
-public class Lambdas
-{
+/**
+ * @author Keshani.A. Bogahawatte
+ * IT17139786
+ */
+
+public class Lambdas{
 
   public static final Function<HttpSession, Cookie> COOKIE_WITH_SESSION_ID = new Function<HttpSession, Cookie>() {
 	public Cookie apply(HttpSession session) {
@@ -19,5 +22,4 @@ public class Lambdas
 		return new Cookie("CSRF_TOKEN", csrfToken);
 	}
 };
-
 }
